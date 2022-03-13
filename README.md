@@ -1,7 +1,7 @@
 # φjs
 
 <p align="center">
-  <a target="_blank" href="https://www.phijs.com">
+  <a target="_blank" href="https://www.bestshi.com">
   <img width="88" src="https://images.bestshi.com/README-2022-03-14-00-21-26-phijs.jpg!watermark">
   </a>
 </p>
